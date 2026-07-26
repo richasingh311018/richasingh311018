@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richasingh311018&label=Profile%20views&color=0e75b6&style=flat" alt="richasingh311018" /> </p>
 
-- 🔭 I’m currently working on [AI- based Energy Monitoring System](https://github.com/richasingh311018/ai-energy-monitoring-system)
+- I’m currently working on [AI- based Energy Monitoring System](https://github.com/richasingh311018/ai-energy-monitoring-system)
 
-- 🌱 I’m currently learning **AI/ML and DSA in C++**
+-  I’m currently learning **AI/ML and DSA in C++**
 
-- 👯 I’m looking to collaborate on **MERN Stack Projects**
-
-- 📫 How to reach me **richasingh.1801@gmail.com**
+-  How to reach me **richasingh.1801@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
