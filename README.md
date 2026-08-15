@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richa Singh</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software developer </h3>
 <img align="right" alt="coding" width="400" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richasingh311018&label=Profile%20views&color=0e75b6&style=flat" alt="richasingh311018" /> </p>
