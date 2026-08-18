@@ -6,7 +6,7 @@
 
 - I’m currently working on [AI- based Energy Monitoring System](https://github.com/richasingh311018/ai-energy-monitoring-system)
 
--  I’m currently learning **AI/ML and DSA in C++**
+-  I’m currently learning **Machine Learning and DSA in C++**
 
 -  How to reach me **richasingh.1801@gmail.com**
 
