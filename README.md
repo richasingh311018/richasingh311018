@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/da69f192-8768-4baa-8d6e-96d18ba262e9" />
- width="300"/>
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/da69f192-8768-4baa-8d6e-96d18ba262e9" />
 
 # ✦ Hey, I'm Richa Singh 👋
 
