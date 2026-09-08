@@ -82,7 +82,7 @@ An accessibility-focused platform that uses **voice interaction and AI** to make
 
 </tr>
 </table>
-### 🌪️ ResQnet
+##  ResQnet
 
 **AI Disaster Intelligence & Response**
 
@@ -126,4 +126,11 @@ Monitors energy consumption, identifies **usage patterns and anomalies**, and us
 <tr>
 
 <td width="33%" valign="top">
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=richasingh311018&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=richasingh311018&theme=tokyonight&hide_border=true"/>
+
+</div>
 
