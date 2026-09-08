@@ -68,26 +68,6 @@ Optimization
 ---
 
 ## 🚀 Things I've Built
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌪️ ResQnet
-
-**AI Disaster Intelligence & Response**
-
-A platform that turns scattered disaster reports into **rescue intelligence** — helping responders understand affected areas, identify critical situations and prioritize rescue operations.
-
-`React` `FastAPI` `Python` `PostgreSQL` `Qdrant`
-
-**→ Information → Intelligence → Action**
-
-</td>
-
-<td width="50%" valign="top">
-
 ### 💰 SunoSaathi
 
 **Voice-First Financial Inclusion**
@@ -115,16 +95,36 @@ An accessibility-focused platform that uses **voice interaction and AI** to make
 
 ---
 
-## 🧩 Currently
+<table>
+<tr>
 
-```text
-╭────────────────────────────────────────────╮
-│                                            │
-│   🔭 Building      → AI + Full Stack       │
-│   🧠 Learning      → DSA + System Design   │
-│   🏆 Exploring     → Hackathons            │
-│   🚀 Goal          → Build useful things   │
-│                                            │
-╰────────────────────────────────────────────╯
+<td width="33%" valign="top">
 
+### 🌪️ ResQnet
+
+**AI Disaster Intelligence & Response**
+
+Turns scattered disaster reports into **actionable rescue intelligence**, helping responders understand affected areas and prioritize critical rescue operations.
+
+`React` `FastAPI` `Python` `PostgreSQL`
+
+**→ Information → Intelligence → Action**
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⚡ AI Energy Monitor
+
+**AI-Powered Energy Monitoring System**
+
+Monitors energy consumption, identifies **usage patterns and anomalies**, and uses AI-driven insights to help reduce unnecessary energy consumption.
+
+`AI/ML` `Python` `React` `IoT`
+
+**→ Monitor → Analyze → Optimize**
+
+</td>
+
+<td width="33%" valign="top">
 -->
