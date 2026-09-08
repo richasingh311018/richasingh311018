@@ -119,18 +119,19 @@ Monitors energy consumption, identifies **usage patterns and anomalies**, and us
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,fastapi,postgresql,firebase,docker,git,github,vscode" />
 
 </div>
-
----
-
 <table>
 <tr>
 
 <td width="33%" valign="top">
+
+---
+📊 GitHub
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=richasingh311018&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=richasingh311018&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </div>
+
 
