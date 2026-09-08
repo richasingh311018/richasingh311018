@@ -126,6 +126,11 @@ Monitors energy consumption, identifies **usage patterns and anomalies**, and us
 
 ---
 📊 GitHub
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
