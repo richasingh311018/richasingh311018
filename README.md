@@ -82,24 +82,6 @@ An accessibility-focused platform that uses **voice interaction and AI** to make
 
 </tr>
 </table>
-
----
-
-## ⚙️ My Tech Universe
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,fastapi,postgresql,firebase,docker,git,github,vscode" />
-
-</div>
-
----
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
 ### 🌪️ ResQnet
 
 **AI Disaster Intelligence & Response**
@@ -127,4 +109,21 @@ Monitors energy consumption, identifies **usage patterns and anomalies**, and us
 </td>
 
 <td width="33%" valign="top">
--->
+
+---
+
+## ⚙️ My Tech Stacks
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,fastapi,postgresql,firebase,docker,git,github,vscode" />
+
+</div>
+
+---
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
