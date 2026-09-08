@@ -123,6 +123,3 @@ Monitors energy consumption, identifies **usage patterns and anomalies**, and us
 <tr>
 
 <td width="33%" valign="top">
-
----
-
