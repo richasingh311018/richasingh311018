@@ -2,7 +2,7 @@
 
 <img src="CODING_GIRL_GIF" width="300"/>
 
-# ✦ Hey, I'm YOUR NAME 👋
+# ✦ Hey, I'm Richa Singh 👋
 
 ### `CSE (AI) Student • Developer • Problem Solver`
 
