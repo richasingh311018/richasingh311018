@@ -147,7 +147,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=richasingh31
 </a>
 
 </div>
-```
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <br>
