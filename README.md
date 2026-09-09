@@ -26,7 +26,7 @@
 <div align="center">
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+src="https://github-readme-stats.vercel.app/api?username=richasingh311018&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="180"
 src="https://github-readme-streak-stats-eight.vercel.app/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
@@ -87,19 +87,6 @@ Monitors energy consumption, identifies **usage patterns and anomalies**, and us
 
 ---
 
-## ⚙️ My Tech Stacks
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,fastapi,postgresql,firebase,docker,git,github,vscode" />
-
-
-</div>
-<table>
-<tr>
-
-<td width="33%" valign="top">
-```html
 <h2 align="center">⚙️ My Tech Stacks</h2>
 
 <div align="center">
@@ -131,4 +118,4 @@ Monitors energy consumption, identifies **usage patterns and anomalies**, and us
 💬 <b>Always open to connecting, collaborating & building something cool.</b>
 
 </div>
-```
+
