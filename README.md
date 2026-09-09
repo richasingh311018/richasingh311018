@@ -94,13 +94,14 @@ Monitors energy consumption, identifies **usage patterns and anomalies**, and us
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,fastapi,postgresql,firebase,docker,git,github,vscode" />
 
+
 </div>
 <table>
 <tr>
 
 <td width="33%" valign="top">
   
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">🌐 Connect With Me </h2>
 
 <div align="center">
 
