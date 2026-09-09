@@ -20,7 +20,7 @@
 🌱 Learning something new every day
 
 </div>
----
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
@@ -41,7 +41,7 @@ src="https://github-readme-streak-stats-eight.vercel.app/?user=richasingh311018&
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=richasingh311018&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-```html
+
 <h2 align="center">🚀 Things I've Built</h2>
 
 <p align="center">
@@ -55,7 +55,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=richasingh31
 
 <td width="33%" valign="top">
 
-<h3 align="center">🌪️ ResQnet</h3>
+<h3 align="center"> ResQnet</h3>
 
 <p align="center">
   <b>AI Disaster Intelligence & Response System</b>
@@ -74,7 +74,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=richasingh31
 </p>
 
 <p align="center">
-  <a href="YOUR_RESQNET_GITHUB_LINK">
+  <a href="https://github.com/richasingh311018/ResQnet.git">
     <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
@@ -101,7 +101,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=richasingh31
 </p>
 
 <p align="center">
-  <a href="YOUR_ENERGY_GITHUB_LINK">
+  <a href="https://github.com/richasingh311018/ai-energy-monitoring-system.git">
     <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
@@ -128,7 +128,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=richasingh31
 </p>
 
 <p align="center">
-  <a href="YOUR_SUNOSAATHI_GITHUB_LINK">
+  <a href="https://github.com/richasingh311018/sunosathii.git">
     <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
@@ -142,72 +142,13 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=richasingh31
 
 <div align="center">
 
-<a href="YOUR_GITHUB_PROFILE_LINK">
+<a href="richasingh311018/richasingh311018">
   <img src="https://img.shields.io/badge/More%20on%20GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
 ```
 
-
-## 🚀 Things I've Built
-### 💰 SunoSaathi
-
-**Voice-First Financial Inclusion**
-
-An accessibility-focused platform that uses **voice interaction and AI** to make financial services easier for users with limited digital literacy.
-
-`React` `Tailwind` `Voice AI` `OCR`
-
-**→ Voice → Access → Inclusion**
-
-</td>
-
-</tr>
-</table>
-##  ResQnet
-
-**AI Disaster Intelligence & Response**
-
-Turns scattered disaster reports into **actionable rescue intelligence**, helping responders understand affected areas and prioritize critical rescue operations.
-
-`React` `FastAPI` `Python` `PostgreSQL`
-
-**→ Information → Intelligence → Action**
-
-</td>
-
-<td width="33%" valign="top">
-
-### ⚡ AI Energy Monitor
-
-**AI-Powered Energy Monitoring System**
-
-Monitors energy consumption, identifies **usage patterns and anomalies**, and uses AI-driven insights to help reduce unnecessary energy consumption.
-
-`AI/ML` `Python` `React` `IoT`
-
-**→ Monitor → Analyze → Optimize**
-
-</td>
-
-<td width="33%" valign="top">
-
----
-
-<h2 align="center">⚙️ My Tech Stacks</h2>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,fastapi,postgresql,firebase,docker,git,github,vscode" />
-
-</div>
-
-<br>
-
-<hr>
-
-<br>
 
 <h2 align="center">🌐 Connect With Me</h2>
 
