@@ -99,26 +99,36 @@ Monitors energy consumption, identifies **usage patterns and anomalies**, and us
 <tr>
 
 <td width="33%" valign="top">
----
-  
-<h2 align="center">🌐 Connect With Me </h2>
+```html
+<h2 align="center">⚙️ My Tech Stacks</h2>
 
 <div align="center">
 
-<a href="mailto:richasingh.1801@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/richa-singh-060853314/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,fastapi,postgresql,firebase,docker,git,github,vscode" />
 
 </div>
 
 <br>
 
+<hr>
+
+<br>
+
+<h2 align="center">🌐 Connect With Me</h2>
+
 <div align="center">
 
-💬 **Always open to connecting, collaborating & building something cool.**
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+💬 <b>Always open to connecting, collaborating & building something cool.</b>
 
 </div>
+```
