@@ -41,6 +41,114 @@ src="https://github-readme-streak-stats-eight.vercel.app/?user=richasingh311018&
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=richasingh311018&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+```html
+<h2 align="center">🚀 Things I've Built</h2>
+
+<p align="center">
+  <i>A few projects where I turned ideas into working systems.</i>
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🌪️ ResQnet</h3>
+
+<p align="center">
+  <b>AI Disaster Intelligence & Response System</b>
+</p>
+
+<p align="center">
+  Turns fragmented disaster reports, images and location data into actionable rescue intelligence.
+</p>
+
+<p align="center">
+  <code>React</code>
+  <code>FastAPI</code>
+  <code>Python</code>
+  <code>PostgreSQL</code>
+  <code>Qdrant</code>
+</p>
+
+<p align="center">
+  <a href="YOUR_RESQNET_GITHUB_LINK">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">⚡ AI Energy Monitor</h3>
+
+<p align="center">
+  <b>Intelligent Energy Monitoring</b>
+</p>
+
+<p align="center">
+  Monitors energy consumption, analyzes usage patterns and detects inefficient energy usage through intelligent insights.
+</p>
+
+<p align="center">
+  <code>AI/ML</code>
+  <code>Python</code>
+  <code>React</code>
+  <code>IoT</code>
+</p>
+
+<p align="center">
+  <a href="YOUR_ENERGY_GITHUB_LINK">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">💰 SunoSaathi</h3>
+
+<p align="center">
+  <b>Voice-First Financial Inclusion</b>
+</p>
+
+<p align="center">
+  A voice-first platform making digital financial services more accessible for users with limited digital literacy.
+</p>
+
+<p align="center">
+  <code>React</code>
+  <code>Tailwind</code>
+  <code>Voice AI</code>
+  <code>OCR</code>
+</p>
+
+<p align="center">
+  <a href="YOUR_SUNOSAATHI_GITHUB_LINK">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<a href="YOUR_GITHUB_PROFILE_LINK">
+  <img src="https://img.shields.io/badge/More%20on%20GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+```
+
 
 ## 🚀 Things I've Built
 ### 💰 SunoSaathi
