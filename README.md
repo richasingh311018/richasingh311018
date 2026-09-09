@@ -1,5 +1,5 @@
 <div align="center">
-# ✦ Hey, I'm Richa Singh 👋
+ ✦ Hey, I'm Richa Singh 👋
 
 ### `CSE (AI) Student • Developer • Problem Solver`
 
