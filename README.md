@@ -1,6 +1,3 @@
-<div align="center">
-
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/da69f192-8768-4baa-8d6e-96d18ba262e9" />
 
 # ✦ Hey, I'm Richa Singh 👋
 
@@ -66,6 +63,14 @@ Optimization
 </table>
 
 ---
+###Git Hub Streak:-
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ## 🚀 Things I've Built
 ### 💰 SunoSaathi
