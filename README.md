@@ -22,47 +22,6 @@
 </div>
 
 ---
-
-## 🪄 What I Do
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🤖 AI
-
-AI/ML  
-Intelligent Systems  
-Automation  
-Multimodal AI
-
-</td>
-
-<td width="33%" align="center">
-
-### 💻 Development
-
-React  
-Node.js  
-FastAPI  
-PostgreSQL
-
-</td>
-
-<td width="33%" align="center">
-
-### 🧠 Problem Solving
-
-DSA  
-Algorithms  
-System Design  
-Optimization
-
-</td>
-</tr>
-</table>
-
----
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
@@ -140,3 +99,25 @@ Monitors energy consumption, identifies **usage patterns and anomalies**, and us
 <tr>
 
 <td width="33%" valign="top">
+  
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center">
+
+<a href="mailto:richasingh.1801@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+💬 **Always open to connecting, collaborating & building something cool.**
+
+</div>
