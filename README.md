@@ -142,12 +142,27 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=richasingh31
 
 <div align="center">
 
-<a href="richasingh311018/richasingh311018">
+<a href="https://github.com/richasingh311018">
   <img src="https://img.shields.io/badge/More%20on%20GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
 ```
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,fastapi,postgresql,firebase,docker,git,github,vscode&perline=7" />
+
+</div>
+
+<br>
+
+<hr>
+
+<br>
 
 
 <h2 align="center">🌐 Connect With Me</h2>
