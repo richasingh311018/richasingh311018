@@ -20,7 +20,6 @@
 🌱 Learning something new every day
 
 </div>
-
 ---
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -100,6 +99,7 @@ Monitors energy consumption, identifies **usage patterns and anomalies**, and us
 <tr>
 
 <td width="33%" valign="top">
+---
   
 <h2 align="center">🌐 Connect With Me </h2>
 
@@ -109,7 +109,7 @@ Monitors energy consumption, identifies **usage patterns and anomalies**, and us
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="https://www.linkedin.com/in/richa-singh-060853314/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
