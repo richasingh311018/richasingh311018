@@ -13,12 +13,13 @@
 
 ### `A little about me`
 
-💻 Building real-world applications  
-🤖 Exploring AI & intelligent systems  
-🧩 Solving DSA problems  
-🏆 Love building at hackathons  
-🌱 Learning something new every day
+## 👋 About Me
 
+- 🎓 Third-year B.Tech CSE (AI/ML) student 
+- 💻 MERN Stack Developer
+- 🧠 Recently working on AI/ML projects
+- 🧩 Sharpening problem-solving skills by solving DSA in C++
+  
 </div>
 
 <h2 align="center">📊 GitHub Stats</h2>
