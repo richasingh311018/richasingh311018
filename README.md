@@ -29,9 +29,6 @@
 <div align="center">
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api?username=richasingh311018&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180"
 src="https://github-readme-streak-stats-eight.vercel.app/?user=richasingh311018&theme=tokyonight&hide_border=true"/>
 
 </div>
