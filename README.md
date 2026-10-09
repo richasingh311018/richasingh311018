@@ -3,7 +3,7 @@
 
 ### `CSE (AI) Student • Developer • Problem Solver`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=I+turn+ideas+into+code+%F0%9F%92%BB;AI+%7C+Full+Stack+%7C+DSA;Building+%E2%80%A2+Learning+%E2%80%A2+Experimenting;Always+curious%2C+always+building+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=I+turn+ideas+into+code+%F0%9F%92%BB;AI+%7C+Full+Stack+%7C+DSA;Building+%E2%80%A2+Learning+%E2%80%A2+Experimenting;Always+curious%2C+building+%F0%9F%9A%80"/>
 
 </div>
 
