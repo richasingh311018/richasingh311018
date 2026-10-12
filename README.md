@@ -17,9 +17,9 @@
 
 ## 👋 About Me
 
- - Third-year B.Tech CSE (AI) student|
- - MERN Stack Developer|
- - Recently working on AI/ML projects|
+ - Third-year B.Tech CSE (AI) student
+ - MERN Stack Developer
+ - Recently working on AI/ML projects
  - Sharpening problem-solving skills by solving DSA in C++
   
 </div>
